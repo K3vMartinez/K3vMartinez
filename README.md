@@ -7,9 +7,10 @@
 * He sido cocinero y he viajado por diferentes partes del mundo.
   
 ### Sobre mi:
-Me considero una persona con muchas ganaas de aprender y seguir creciendo. Sentirse realizado es una de las mejores sensaciones del mundo.
+Me considero una persona con muchas ganas de aprender y seguir creciendo. Sentirse realizado es una de las mejores sensaciones del mundo.
 
 ### Redes sociales y contacto:
+<img href="https://www.instagram.com/k3vmxrtinez/" src="./iconos/instagram.svg">
 
 <!--
 **K3vMartinez/K3vMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
