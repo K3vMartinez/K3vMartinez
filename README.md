@@ -11,7 +11,7 @@ Me considero una persona con muchas ganas de aprender y seguir creciendo. Sentir
 
 ### Recursos:
 >[!IMPORTANT]
-> Tengo conocimientos de las siguientes herramientas y lenguajes, de las cuales sigo aprendiendo de ellas y mejorando. Abierto a cualquier nuevo lenguaje o herramienta.
+> Tengo conocimientos de las siguientes herramientas y lenguajes, de las cuales sigo aprendiendo de ellas y mejorando. Abierto a cualquier nuevo conocimiento.
 
 <a href="https://www.java.com/es/" target="_blank"><img width="50" height="50" src="./iconos/java.svg"/></a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img width="50" height="50" src="./iconos/javascript.svg"/></a>
